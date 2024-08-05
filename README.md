@@ -10,7 +10,7 @@
 
  
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=round-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=round-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=round-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=round-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=round-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=round-square&logo=amazonrds&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=round-square&logo=amazonroute53&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=round-square&logo=amazonec2&logoColor=white"/>
