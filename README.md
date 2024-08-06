@@ -3,7 +3,9 @@
 <h2 align="center"> 🏫 부트캠프 🏫 <br> </p>
 
 <p align="center"><sub>ABC부트캠프 데이터탐험가 과정(2024)</sub> <br>
-<sub>KT AIVLE SCHOOL DX컨설턴트 과정(2024)</sub></p>
+ <sub>'생태계교란종, 멸종위기종 관제 시스템(VGG16)' - 장려상</sub></p>
+<sub>KT AIVLE SCHOOL DX컨설턴트 과정(2024)</sub><br>
+ <sub>'스마트 공유우산 플랫폼' - 대상</sub></p>
 
 <h2 align="center"> 📚 Studying 📚 <br> </p>
 
